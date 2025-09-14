@@ -61,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a53x/proprietary/vendor/firmware/abox_tplg.conf:$(TARGET_COPY_OUT_VENDOR)/firmware/abox_tplg.conf \
     vendor/samsung/a53x/proprietary/vendor/firmware/calliope_dram.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/calliope_dram.bin \
     vendor/samsung/a53x/proprietary/vendor/firmware/dual_cal_wide_sub.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dual_cal_wide_sub.bin \
+    vendor/samsung/a53x/proprietary/vendor/firmware/gt9895_a53x.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gt9895_a53x.bin \
     vendor/samsung/a53x/proprietary/vendor/firmware/is_fw_mcu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_fw_mcu.bin \
     vendor/samsung/a53x/proprietary/vendor/firmware/is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_lib.bin \
     vendor/samsung/a53x/proprietary/vendor/firmware/is_rta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_rta.bin \
